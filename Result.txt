@@ -1,0 +1,20 @@
+Created by: Andrew Knittle, andrk11@vt.edu
+--------------------------------------------------------------
+STARTING PROGRAM: 
+
+GIS PROGRAM 
+
+DATA BASE FILE: 	C:\Users\AndrewK\workspace\Project4\src\VA_Monterey.txt
+COMMAND FILE: 	C:\Users\AndrewK\workspace\Project4\src\Script01.txt
+LOG FILE: 	Result.txt
+
+--------------------------------------------------------------
+SETTING WORLD BOUNDS: 
+COMMAND 5:	 world 0794130W 0792630W 381500N 383000N
+
+--------------------------------------------------------------
+IMPORTING RECORDS:VA_Monterey.txt 
+COMMAND 8:	 import 
+
+FATAL ERROR: 
+ 	 PROGRAM TERMINATED...
